@@ -1,6 +1,0 @@
-C:\Projetos\GestaoSuperHerois\Infra.Data\bin\Debug\Infra.Data.dll
-C:\Projetos\GestaoSuperHerois\Infra.Data\bin\Debug\Infra.Data.pdb
-C:\Projetos\GestaoSuperHerois\Infra.Data\obj\Debug\Infra.Data.csproj.AssemblyReference.cache
-C:\Projetos\GestaoSuperHerois\Infra.Data\obj\Debug\Infra.Data.csproj.CoreCompileInputs.cache
-C:\Projetos\GestaoSuperHerois\Infra.Data\obj\Debug\Infra.Data.dll
-C:\Projetos\GestaoSuperHerois\Infra.Data\obj\Debug\Infra.Data.pdb
