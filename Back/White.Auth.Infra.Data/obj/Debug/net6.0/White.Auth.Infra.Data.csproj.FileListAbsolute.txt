@@ -1,0 +1,12 @@
+C:\Projetos\White\White.Auth\White.Auth.Infra.Data\bin\Debug\net6.0\White.Auth.Infra.Data.deps.json
+C:\Projetos\White\White.Auth\White.Auth.Infra.Data\bin\Debug\net6.0\White.Auth.Infra.Data.dll
+C:\Projetos\White\White.Auth\White.Auth.Infra.Data\bin\Debug\net6.0\White.Auth.Infra.Data.pdb
+C:\Projetos\White\White.Auth\White.Auth.Infra.Data\obj\Debug\net6.0\White.Auth.Infra.Data.csproj.AssemblyReference.cache
+C:\Projetos\White\White.Auth\White.Auth.Infra.Data\obj\Debug\net6.0\White.Auth.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\White\White.Auth\White.Auth.Infra.Data\obj\Debug\net6.0\White.Auth.Infra.Data.AssemblyInfoInputs.cache
+C:\Projetos\White\White.Auth\White.Auth.Infra.Data\obj\Debug\net6.0\White.Auth.Infra.Data.AssemblyInfo.cs
+C:\Projetos\White\White.Auth\White.Auth.Infra.Data\obj\Debug\net6.0\White.Auth.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Projetos\White\White.Auth\White.Auth.Infra.Data\obj\Debug\net6.0\White.Auth.Infra.Data.dll
+C:\Projetos\White\White.Auth\White.Auth.Infra.Data\obj\Debug\net6.0\refint\White.Auth.Infra.Data.dll
+C:\Projetos\White\White.Auth\White.Auth.Infra.Data\obj\Debug\net6.0\White.Auth.Infra.Data.pdb
+C:\Projetos\White\White.Auth\White.Auth.Infra.Data\obj\Debug\net6.0\ref\White.Auth.Infra.Data.dll
